@@ -1,0 +1,8 @@
+{
+  "name": "ionic.config.json",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "eduflow-app"
+}
